@@ -1,0 +1,3 @@
+[submodule "CATS-CaliforniaTestSystem"]
+	path = CATS-CaliforniaTestSystem
+	url = https://github.com/WISPO-POP/CATS-CaliforniaTestSystem.git
